@@ -3,11 +3,11 @@
  * Plugin Name: TopBar Call To Action
  * Plugin URI: https://www.sharkthemes.com/downloads/topbar-call-to-action
  * Description: TopBar Call To Action provides you option to add clean and elegant topbar notification or call to action section in your website. This plugin adds beauty to your website as well as it plays a very important role to upsell your products or services to a huge extent. This plugin uses customizer api to edit or customize. It is very easy to use and easy to setup. 
- * Version: 1.1.5
+ * Version: 1.1.6
  * Author: Shark Themes
  * Author URI: https://sharkthemes.com
  * Requires at least: 5.0
- * Tested up to: 6.5.2
+ * Tested up to: 6.8.1
  *
  * Text Domain: st-topbar-cta
  * Domain Path: /languages/
